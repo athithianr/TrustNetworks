@@ -3,3 +3,4 @@ Implemented a social network containing trust relationships between users in a m
 
 Used find function in algorithms library to check for duplicate equivalence classes when printing out each one. 
 Implemented a variety of nested for and while loops to ensure reflexive, symmetric, and transitive closure.
+Used input redirection to read number of users and trust relationships from text file.
